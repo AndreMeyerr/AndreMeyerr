@@ -2,7 +2,7 @@
 - 👀 Estudo Ciência de Dados e Análise de Dados.
 - 🌱 Estou cursando Engenharia de Software na Universidade de Brasília
 
-- 📫 231011097
+- 📫 andre.dedemeyer@gmail.com
 
 <!---
 AndreMeyerr/AndreMeyerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
